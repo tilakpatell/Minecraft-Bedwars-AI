@@ -1,6 +1,9 @@
+![image](https://github.com/user-attachments/assets/c07f75d2-148f-49a2-a528-8711267dd8c0)
+
 # Bedwars AI Simulation
 
 A C# simulation environment for testing AI strategies in a Bedwars-style game, inspired by the popular Minecraft minigame. This project implements a custom game engine with different AI agent strategies competing against each other.
+
 
 ## Overview
 
